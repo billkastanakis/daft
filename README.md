@@ -1,6 +1,7 @@
 Execution time: 6 hours.
 
 Video:
+
 [![Alt text for your video](http://i.imgur.com/zEs6NSP.png)](https://www.youtube.com/watch?v=nY7hkCVXRC4)
 
 Features:
