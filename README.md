@@ -1,5 +1,8 @@
 Execution time: 6 hours.
 
+Video:
+[![Alt text for your video](http://imgur.com/zEs6NSP)](https://www.youtube.com/watch?v=nY7hkCVXRC4)
+
 Features:
 - Seamless transitions.
 - Compatible with 3.5 and 4 inch devices.
